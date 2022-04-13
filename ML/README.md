@@ -2,7 +2,8 @@
  All experimets Run RC
 
 # (Key) Requirements
-python 3.6.9
+python 3.8.5
+scikit-learn 1.0.2
 
 # Hardware Specification
 
