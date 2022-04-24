@@ -1,5 +1,5 @@
 # Archive - Jetson Nano
-CAU AIR Archive
+All experiments were conducted on Jetson Nano
 
 # (Key) Requirements
 python 3.6.9

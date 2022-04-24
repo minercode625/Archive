@@ -1,5 +1,5 @@
 # Archive - PC
- All experimets Run RC
+ All experiments were conducted on PC
 
 # (Key) Requirements
 python 3.8.5
