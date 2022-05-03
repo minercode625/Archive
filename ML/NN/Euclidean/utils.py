@@ -1,3 +1,7 @@
+'''
+    Description ouput for experimental settings
+'''
+
 class info:
     def info(self):
         config_list = {
